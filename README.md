@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andrew
 
-I'm a technologies, software engineer, writer, and architect. I wear a lot of hats.
+I'm a technologist, software engineer, writer, and architect. I wear a lot of hats.
 
 <!--
 **andrewcurioso/andrewcurioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
